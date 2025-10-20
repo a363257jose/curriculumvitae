@@ -3,7 +3,7 @@
 Este sitio web presenta mi **currículum profesional** en formato digital, desarrollado con **HTML, CSS y JavaScript**.  
 Incluye información sobre mi experiencia en el sector forestal, educación, habilidades, cursos e idiomas.
 
- **Ver sitio web:** [https://a363257jose.github.io/curriculumvitae/](https://a363257jose.github.io/curriculumvitae/)
+ **Ver sitio web:** ([https://a363257jose.github.io/curriculumvitae/](https://a363257jose.github.io/curriculumvitae/#))
 
 ---
 
@@ -42,7 +42,7 @@ Asesor Técnico Forestal | Consultoría Ambiental y de Carbono
 
 *Guachochi, Chihuahua, México*  
 [a363257@uach.mx](mailto:a363257@uach.mx)  
-[Página en GitHub Pages](https://a363257jose.github.io/curriculumvitae/)
+[Página en GitHub Pages][(https://a363257jose.github.io/curriculumvitae/)](https://a363257jose.github.io/curriculumvitae/#)
 
 ---
 
